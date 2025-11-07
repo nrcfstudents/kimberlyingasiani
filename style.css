@@ -6,3 +6,6 @@ colour: red;
 .nav-bar display flex: ;{
 justify-content: flex-betweens;
 }
+.card{background-color:gray;
+    border-radius: 10px;
+}
